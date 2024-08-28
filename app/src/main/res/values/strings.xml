@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ehsan Application</string>
+    <string name="title">Home</string>
+    <string name="title2">Category</string>
+    <string name="title3">profile</string>
+    <string name="text_food">what would you like to eat</string>
+    <string name="text_food2">List Food</string>
+    <string name="list_text">Over Popular items</string>
+    <string name="list_category">category </string>>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text">Category:Beef</string>
+    <string name="area">Area:Palestine</string>
+    <string name="text_v">- Instructions</string>
+</resources>
